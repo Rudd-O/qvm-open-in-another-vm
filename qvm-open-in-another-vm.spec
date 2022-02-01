@@ -3,7 +3,7 @@
 %define mybuildnumber %{?build_number}%{?!build_number:1}
 
 Name:           qvm-open-in-another-vm
-Version:        0.0.1
+Version:        0.0.2
 Release:        %{mybuildnumber}%{?dist}
 Summary:        An application registration to open links and other documents in separate qubes
 BuildArch:      noarch
