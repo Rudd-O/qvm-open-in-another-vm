@@ -6,7 +6,9 @@ This is based on https://github.com/Qubes-Community/Contents/blob/master/docs/co
 
 ## How to use this program
 
-You can associate files with this program, or you can associate URLs.  Here are details:
+First, install it (see below).
+
+Now you can associate files with this program, or you can associate URLs.  Here are details:
 
 ### How set URLs to open in a separate VM
 
@@ -22,8 +24,6 @@ Presto — now clicking on URLs in other applications will launch a window askin
 
 
 ## Installation instructions
-
-First, install it (see below).
 
 * Build the package by checking out the source and issuing `make rpm`.
 * Copy the `noarch.rpm` file to your template qube.
