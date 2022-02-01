@@ -1,7 +1,6 @@
 [Desktop Entry]
-Encoding=UTF-8
 Name=Open in another Qube
-Exec=qvm-open-in-vm "$default" %u
+Exec=qvm-open-in-vm \\$default %u
 Terminal=false
 Icon=qvm-open-in-another-vm
 X-MultipleArgs=false
